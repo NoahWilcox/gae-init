@@ -30,7 +30,7 @@
     "gulp-size": "~2",
     "gulp-sourcemaps": "~2",
     "gulp-start": "~1",
-    "gulp-uglify": "~2",
+    "gulp-uglify": "~2.0.1",
     "gulp-util": "~3",
     "gulp-watch": "~4",
     "gulp-zip": "~3",
